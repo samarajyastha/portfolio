@@ -12,3 +12,30 @@ export const info = {
 
 export const description =
   "A highly energetic, enthusiastic and dedicated individual with well-motivated and leadership skills having a background of Science, IT and Computer Engineering, graduated from Tribhuvan University, Institute of Engineering. I have good planning & organizational skills and confidence in working independently or as a part of a team. I am flexible, reliable and possess excellent time keeping skills. I am eager to learn new technologies and innovations.";
+
+export const workExperiences = [
+  {
+    designation: "Senior Web/Mobile App Developer",
+    company: "Dzango Technologies Limited",
+    companyUrl: "https://www.dzango.com/",
+    duration: "Jan, 2022 - Present",
+    achievements: [
+      "Working on ElasticSearch & React.js based projects.",
+      "Created mobile apps on React Native.",
+    ],
+  },
+  {
+    designation: "Web Developer",
+    company: "Themegrill",
+    companyUrl: "https://themegrill.com/",
+    duration: "May, 2021 - Dec, 2021",
+    achievements: ["Created WordPress themes."],
+  },
+  {
+    designation: "Web Designer/Developer",
+    company: "Swoniga Technology",
+    companyUrl: "https://www.facebook.com/swonigatechnology",
+    duration: "Dec, 2019 - Apr, 2021",
+    achievements: ["Created websites on WordPress."],
+  },
+];

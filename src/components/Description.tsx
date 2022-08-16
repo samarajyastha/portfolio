@@ -1,4 +1,4 @@
-import { StyledDescription } from "../styles/Description.styles";
+import { StyledDescription } from "../styles/Component.styles";
 
 interface Props {
   description: string;

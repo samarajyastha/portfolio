@@ -5,13 +5,14 @@ import {
   displayName,
   info,
 } from "./constants/contents";
+import Description from "./components/Description";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 
 import heroImage from "./samarajya_shrestha.jpeg";
 
 import "./App.css";
-import Description from "./components/Description";
+import Portfolio from "./layouts/Portfolio";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
       />
       <main>
         <Description description={description} />
+        <Portfolio />
       </main>
       <Footer declaration={declaration} />
     </>
