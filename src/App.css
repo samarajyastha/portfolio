@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "NunitoLight";
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 2rem;
+}
+
+@font-face {
+  font-family: MontserratBold;
+  src: url("../public/fonts/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: MontserratSemibold;
+  src: url("../public/fonts/Montserrat-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: MontserratMedium;
+  src: url("../public/fonts/Montserrat-Medium.ttf");
+}
+
+@font-face {
+  font-family: MontserratRegular;
+  src: url("../public/fonts/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: MontserratLight;
+  src: url("../public/fonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: MontserratThin;
+  src: url("../public/fonts/Montserrat-Thin.ttf");
+}
+
+@font-face {
+  font-family: NunitoMedium;
+  src: url("../public/fonts/Nunito-Medium.ttf");
+}
+
+@font-face {
+  font-family: NunitoRegular;
+  src: url("../public/fonts/Nunito-Regular.ttf");
+}
+
+@font-face {
+  font-family: NunitoLight;
+  src: url("../public/fonts/Nunito-Light.ttf");
+}
+
+@font-face {
+  font-family: NunitoExtraLight;
+  src: url("../public/fonts/Nunito-ExtraLight.ttf");
+}
