@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0ef67ed1.css",
+    "main.js": "/portfolio/static/js/main.aeb698a5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/samarajya_shrestha.jpeg": "/portfolio/static/media/samarajya_shrestha.507900cd9f62a302bba8.jpeg",
+    "static/media/Montserrat-SemiBold.ttf": "/portfolio/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Medium.ttf": "/portfolio/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Bold.ttf": "/portfolio/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Light.ttf": "/portfolio/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Montserrat-Thin.ttf": "/portfolio/static/media/Montserrat-Thin.413b6b9f23ece3b343a7.ttf",
+    "static/media/Nunito-Medium.ttf": "/portfolio/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
+    "static/media/Nunito-Light.ttf": "/portfolio/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
+    "static/media/Nunito-Regular.ttf": "/portfolio/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/Nunito-ExtraLight.ttf": "/portfolio/static/media/Nunito-ExtraLight.52e1b77fe0519dcdcc7f.ttf",
+    "index.html": "/portfolio/index.html",
+    "main.0ef67ed1.css.map": "/portfolio/static/css/main.0ef67ed1.css.map",
+    "main.aeb698a5.js.map": "/portfolio/static/js/main.aeb698a5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef67ed1.css",
+    "static/js/main.aeb698a5.js"
+  ]
+}
