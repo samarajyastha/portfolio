@@ -39,3 +39,37 @@ export const StyledWorkExperience = styled.div`
     }
   }
 `;
+
+export const StyledSkills = styled.div`
+  margin-top: 0.5rem;
+
+  span {
+    background-color: ${palette.pill_1};
+    border-radius: 3px;
+    color: ${palette.white};
+    display: inline-block;
+    font-family: "NunitoRegular";
+    font-size: 0.85rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.1rem 0.5rem;
+    white-space: nowrap;
+  }
+`;
+
+export const StyledProgrammingSkills = styled.div`
+  margin-top: 0.5rem;
+
+  span {
+    background-color: ${palette.pill_2};
+    border-radius: 3px;
+    color: ${palette.white};
+    display: inline-block;
+    font-family: "NunitoRegular";
+    font-size: 0.85rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.1rem 0.5rem;
+    white-space: nowrap;
+  }
+`;

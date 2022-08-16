@@ -39,3 +39,33 @@ export const workExperiences = [
     achievements: ["Created websites on WordPress."],
   },
 ];
+
+export const skills = [
+  "Problem Solving",
+  "Teamwork",
+  "Time Management",
+  "Leadership",
+  "Flexibility",
+  "Communication",
+];
+
+export const programmingSkills = [
+  "React",
+  "Next.js",
+  "Node",
+  "Express",
+  "React Native",
+  "MongoDB",
+  "ElasticSearch",
+  "GraphQL",
+  "Strapi",
+  "WordPress",
+  "Git & Github",
+  "HTML/CSS",
+];
+
+export const certificates = [
+  "Android Training, Broadway Infosys",
+  "Git & Github",
+  "HardWare & Networking, MIC Computer",
+];

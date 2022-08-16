@@ -4,6 +4,8 @@ import * as palette from "../constants/colors";
 
 export const StyledPortfolio = styled.div`
   padding: 1rem 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 
   .badge {
     background-color: ${palette.primaryBgColor};
