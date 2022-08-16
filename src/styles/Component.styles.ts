@@ -18,6 +18,7 @@ const BaseStylesExperienceEducation = css`
   span {
     color: ${palette.primaryTextColor};
     display: block;
+    font-family: "NunitoRegular";
     font-size: 0.7rem;
     font-style: italic;
   }
@@ -42,6 +43,8 @@ const BaseStylesList = css`
 `;
 
 export const StyledDescription = styled.section`
+  margin: 1rem 0 0.5rem;
+
   p {
     color: ${palette.primaryTextColor};
     text-align: justify;

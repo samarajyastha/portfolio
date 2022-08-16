@@ -16,6 +16,11 @@ export const StyledPortfolio = styled.div`
   }
 
   div div {
-    margin: 0.25rem 0;
+    margin: 0.25rem 0 0.75rem;
+  }
+
+  @media (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
   }
 `;
