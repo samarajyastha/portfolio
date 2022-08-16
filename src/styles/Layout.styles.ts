@@ -14,4 +14,8 @@ export const StyledPortfolio = styled.div`
     font-size: 0.8rem;
     padding: 0 0.5rem;
   }
+
+  div div {
+    margin: 0.25rem 0;
+  }
 `;

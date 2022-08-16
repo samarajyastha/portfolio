@@ -64,8 +64,55 @@ export const programmingSkills = [
   "HTML/CSS",
 ];
 
+export const education = {
+  degree: "Bachelors in Computer Engineering",
+  college: "National College of Engineering, Tribhuvan University",
+  collegeUrl: "https://nce.edu.np/",
+  duration: "2015 - 2019",
+};
+
 export const certificates = [
   "Android Training, Broadway Infosys",
   "Git & Github",
   "HardWare & Networking, MIC Computer",
 ];
+
+export const projects = [
+  "Single Image Super Resolution",
+  "Android Electronics Workbench",
+];
+
+export const personalDetails = [
+  {
+    field: "Date of Birth",
+    value: "14th Jan, 1996",
+  },
+  {
+    field: "Gender",
+    value: "Male",
+  },
+  {
+    field: "Citizenship",
+    value: "Nepali",
+  },
+  {
+    field: "Blood Group",
+    value: "B+ve",
+  },
+  {
+    field: "LinkedIn",
+    value: "https://www.linkedin.com/in/samarajya-shrestha-a9933b154",
+    link: true,
+  },
+];
+
+export const interests = [
+  "Music",
+  "Video Games",
+  "Coding",
+  "Traveling",
+  "Swimming",
+  "Movies",
+];
+
+export const language = "Written and spoken proficiency in English and Nepali.";
