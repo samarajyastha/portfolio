@@ -123,3 +123,15 @@ export const StyledInterests = styled.div`
 `;
 
 export const StyledLanguage = styled.div``;
+
+export const StyledWorks = styled.div`
+  a {
+    color: ${palette.primaryTextColor};
+    display: block;
+    text-decoration: none;
+
+    &:hover {
+      color: ${palette.primaryColor};
+    }
+  }
+`;

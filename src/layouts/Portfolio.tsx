@@ -8,16 +8,18 @@ import {
   projects,
   skills,
   workExperiences,
+  works,
 } from "../constants/contents";
 import { StyledPortfolio } from "../styles/Layout.styles";
+import Certificates from "../components/Certificates";
+import Education from "../components/Education";
+import Interests from "../components/Interests";
+import PersonalDetails from "../components/PersonalDetails";
 import ProgrammingSkills from "../components/ProgrammingSkills";
+import Projects from "../components/Projects";
 import Skills from "../components/Skills";
 import WorkExperience from "../components/WorkExperience";
-import Education from "../components/Education";
-import Certificates from "../components/Certificates";
-import Projects from "../components/Projects";
-import PersonalDetails from "../components/PersonalDetails";
-import Interests from "../components/Interests";
+import Works from "../components/Works";
 
 const Portfolio = () => {
   return (
@@ -59,6 +61,11 @@ const Portfolio = () => {
         <div className="projects">
           <span className="badge">projects</span>
           <Projects projects={projects} />
+        </div>
+
+        <div className="works">
+          <span className="badge">works</span>
+          <Works works={works} />
         </div>
 
         <div className="interests">
