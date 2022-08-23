@@ -116,3 +116,26 @@ export const interests = [
 ];
 
 export const language = "Written and spoken proficiency in English and Nepali.";
+
+export const works = [
+  {
+    title: "National Academy Secondary School",
+    url: "https://nassdharan.edu.np/",
+  },
+  {
+    title: "Ace Institute",
+    url: "https://aceinstitute.edu.np/",
+  },
+  {
+    title: "Swoniga Technology",
+    url: "https://swonigatechnology.com/",
+  },
+  {
+    title: "Voice Entertainment",
+    url: "https://voiceent.com/",
+  },
+  {
+    title: "Tic Tac Toe Game",
+    url: "https://react-tic-tac-toe-x.herokuapp.com/",
+  },
+];
